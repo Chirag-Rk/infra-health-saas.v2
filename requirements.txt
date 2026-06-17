@@ -1,0 +1,13 @@
+# Install with: uv pip install -r requirements.txt
+# uv is a fast Python package installer: https://docs.astral.sh/uv/
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+streamlit==1.29.0
+plotly==5.18.0
+pydeck==0.8.0
+pandas>=2.1.0,<3
